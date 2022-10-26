@@ -1,0 +1,374 @@
+[
+  {
+    "id": "1",
+    "course_header": "Master the Coding Interview: Data Structures + Algorithms",
+    "course_description": "The ultimate coding interview bootCamp to help you ace your coding interviews and land your dream job. You'll not only learn data structures and algorithms but also the exact steps to take to get more interviews, more job offers, and a higher salary.",
+    "course_overview": "We guarantee you that this is the best coding interview bootCamp that you can find if you are serious about learning data structures & algorithms, want to make up for not having a Computer Science Degree, and want to get hired as a Developer at the company of your dreams.",
+    "learnings": [
+      {
+        "id": "1",
+        "point": "Ace coding interviews given by some of the top tech companies"
+      },
+      {
+        "id": "2",
+        "point": " Learn to implement and use different Data Structures"
+      },
+      {
+        "id": "3",
+        "point": "Learn to implement and use different Algorithms"
+      },
+      {
+        "id": "4",
+        "point": "Learn from a Senior Programmer who has managed teams of engineers and has been in these interviews both as the interviewee and interviewer"
+      },
+      {
+        "id": "5",
+        "point": "Become a better developer by mastering computer science fundamentals"
+      },
+      {
+        "id": "6",
+        "point": " Professionally handle offers and negotiate raises"
+      }
+    ],
+    "number_of_students": "Join 750,000+ students enrolled in Coding Hero courses!",
+    "course_includes": [
+      {
+        "id": "1",
+        "includes": "Access to exclusive ZTM community"
+      },
+      {
+        "id": "2",
+        "includes": "Certificate of Completion"
+      },
+      {
+        "id": "3",
+        "includes": "The knowledge to ace coding interviews & the steps to land your dream job"
+      },
+      {
+        "id": "4",
+        "includes": "Unlimited access to all courses, workshops, career paths and resources"
+      }
+    ],
+    "prerequisites": [
+      {
+        "id": "1",
+        "knowledge": "Basic understanding of one programming language"
+      },
+      {
+        "id": "2",
+        "knowledge": "No previous Computer Science knowledge necessary"
+      }
+    ],
+    "conclusion": "Unlike most instructors, I'm not a marketer or a salesperson.I'm a Senior Developer and Programmer who has worked and managed teams of engineers, and have been in these interviews both as an interviewee as well as the interviewer.My job as an instructor will be a success if I am able to help you become better at interviewing and land you more jobs.This one skill can really change the course of your career. If you're serious about getting hired as a Developer and competing for jobs against Computer Science & Bootcamp grads, I can guarantee you that this coding interview bootcamp will help you succeed like never before. And you have nothing to lose. You can start learning right now and if this course isn't everything you expected, we'll refund you 100% within 30 days. No hassles and no questions asked."
+  },
+  {
+    "id": "2",
+    "course_header": "JavaScript: The Advanced Concepts",
+    "course_description": "Learn modern, advanced JavaScript concepts and practices to be in the top 10% JavaScript Developers this year. This Advanced JavaScript course is even used as reference material to study for some MAANG company interview processes.",
+    "course_overview": "This course is unlike any JavaScript course you will find online. After many years of working with JavaScript on a daily basis, Andrei has now combined best practices from his own experience and decades of experience from some of the top developers in the world, to create a course that turns you into a top performing JavaScript Developer.",
+    "learnings": [
+      {
+        "id": "1",
+        "point": "Advanced JavaScript Practices"
+      },
+      {
+        "id": "2",
+        "point": " Object Oriented Programming & Functional Programming"
+      },
+      {
+        "id": "3",
+        "point": "Latest features: ES6, ES7, ES8, ES9, ES10, ES2020, ES2021, ES2022"
+      },
+      {
+        "id": "4",
+        "point": "Asynchronous JavaScript + Event Loop"
+      },
+      {
+        "id": "5",
+        "point": " Composition vs Inheritance"
+      },
+      {
+        "id": "6",
+        "point": "JavaScript best practices"
+      }
+    ],
+    "number_of_students": "Join 750,000+ students enrolled in Coding Hero courses!",
+    "course_includes": [
+      {
+        "id": "1",
+        "includes": "Access to exclusive ZTM community"
+      },
+      {
+        "id": "2",
+        "includes": "Certificate of Completion"
+      },
+      {
+        "id": "3",
+        "includes": "The knowledge to ace coding interviews & the steps to land your dream job"
+      },
+      {
+        "id": "4",
+        "includes": "Unlimited access to all courses, workshops, career paths and resources"
+      }
+    ],
+    "prerequisites": [
+      {
+        "id": "1",
+        "knowledge": "Basic JavaScript knowledge"
+      },
+      {
+        "id": "2",
+        "knowledge": "A computer (Windows, Mac, or Linux) with an internet connection"
+      }
+    ],
+    "conclusion": "Having a deep understanding of these core JavaScript concepts is key to taking your career as a Developer to the next level.They are timeless topics that will also allow you to stay current with any new library or framework that comes out in the JavaScript ecosystem.I guarantee that you won't find a course as detailed and as well explained as this one. And by the end of the course, you will be in the top 10% of JavaScript Developers 💪.When's the best time to get started? Today!"
+  },
+  {
+    "id": "3",
+    "course_header": "Complete Python Developer in 2023: Zero to Mastery",
+    "course_description": "Learn Python. Get hired. This is one of the most popular, highly rated python coding bootCamps online. It's also the most modern and up-to-date. Guaranteed. This is the only Python course you need if you want to go from complete Python beginner to getting hired as a Python Developer this year!",
+    "course_overview": "Learn Python from scratch, get hired, and have fun along the way with the most modern, up-to-date (fully updated for 2023) Python coding bootCamp on the web! We guarantee you that this is the best Python coding bootCamp that you can find if you want to go from an absolute beginner to the exact steps of how to become a Python Developer in 2023.",
+    "learnings": [
+      {
+        "id": "1",
+        "point": "How to become a Python Developer and get hired"
+      },
+      {
+        "id": "2",
+        "point": " Learn Object Oriented Programming"
+      },
+      {
+        "id": "3",
+        "point": "Build 12+ real world Python projects you can show off on your portfolio"
+      },
+      {
+        "id": "4",
+        "point": "Learn Machine Learning with Python"
+      },
+      {
+        "id": "5",
+        "point": " Learn Data Science with Python to analyze and visualize data"
+      },
+      {
+        "id": "6",
+        "point": "Use Python to process: Images, CSVs, PDFs, and other files"
+      }
+    ],
+    "number_of_students": "Join 750,000+ students enrolled in Coding Hero courses!",
+    "course_includes": [
+      {
+        "id": "1",
+        "includes": "Access to exclusive ZTM community"
+      },
+      {
+        "id": "2",
+        "includes": "Certificate of Completion"
+      },
+      {
+        "id": "3",
+        "includes": "The knowledge to ace coding interviews & the steps to land your dream job"
+      },
+      {
+        "id": "4",
+        "includes": "Unlimited access to all courses, workshops, career paths and resources"
+      }
+    ],
+    "prerequisites": [
+      {
+        "id": "1",
+        "knowledge": "A willingness and enthusiasm to learn"
+      },
+      {
+        "id": "2",
+        "knowledge": "A computer (Windows, Mac, or Linux) with an internet connection"
+      }
+    ],
+    "conclusion": "You will build an actual portfolio website using Python that your future employer and customers can contact you at. By the end, you will have a stack of impressive projects that you have built that you can show off. Whether you are new to programming, looking to level up your Python skills, or are coming from a different programming language, this course is for you. By the end of this course, you will be a confident Python Developer that can get hired in a wide range of roles at any company you want 💪. And you have nothing to lose. You can start learning right now and if this course isn't everything you expected, we'll refund you 100% within 30 days. No hassles and no questions asked."
+  },
+  {
+    "id": "4",
+    "course_header": "Complete Next.js Developer in 2023",
+    "course_description": "Learn Next JS from industry experts using modern best practices. The only Next JS tutorial + projects course you need to learn Next JS, build enterprise-level React applications (like a Netflix clone!) from scratch and get hired as a Next.js Developer in 2023. Go from Zero To Next.js Mastery.",
+    "course_overview": "Using the latest Next.js features for 2023, we guarantee you this is the most comprehensive online course on Next.js and React. You will learn Next.js by building real-world projects (including a massive Netflix clone application) step-by-step alongside senior industry professionals.",
+    "learnings": [
+      {
+        "id": "1",
+        "point": " Build REAL enterprise-level NextJS applications and deploy them to production"
+      },
+      {
+        "id": "2",
+        "point": " Learn the latest features and tools in the NextJS ecosystem including: SWR (React Hooks), Hasura, Serverless Functions, Vercel, Framer Motion + more"
+      },
+      {
+        "id": "3",
+        "point": "Using GraphQL as a NextJS Developer"
+      },
+      {
+        "id": "4",
+        "point": "Set up authentication and user accounts (including password-less login!)"
+      },
+      {
+        "id": "5",
+        "point": "  Learn about SEO and how to use NextJS to have your applications rank on Google"
+      },
+      {
+        "id": "6",
+        "point": " Learn to lead Next JS projects by making good architecture decisions and helping others on your team"
+      }
+    ],
+    "number_of_students": "Join 750,000+ students enrolled in Coding Hero courses!",
+    "course_includes": [
+      {
+        "id": "1",
+        "includes": "Access to exclusive ZTM community"
+      },
+      {
+        "id": "2",
+        "includes": "Certificate of Completion"
+      },
+      {
+        "id": "3",
+        "includes": "The knowledge to ace coding interviews & the steps to land your dream job"
+      },
+      {
+        "id": "4",
+        "includes": "Unlimited access to all courses, workshops, career paths and resources"
+      }
+    ],
+    "prerequisites": [
+      {
+        "id": "1",
+        "knowledge": "Basic HTML, CSS, and JavaScript knowledge"
+      },
+      {
+        "id": "2",
+        "knowledge": "A computer (Windows, Mac, or Linux) with an internet connection"
+      }
+    ],
+    "conclusion": "This course is not about making you just code along without understanding the principles so that when you are done with the course you don’t know what to do other than watch another tutorial... No! This course will push you and challenge you to go from an absolute beginner in Next.js to someone that is in the top 10% of Next.js and React developers 💪."
+  },
+  {
+    "id": "5",
+    "course_header": "Complete Node.js Developer in 2023",
+    "course_description": "Learn from Node.js experts. This is the only Node JS tutorial + projects course you need to learn Node, build advanced large-scale applications from scratch & get hired as a Backend Developer in 2023.",
+    "course_overview": "We guarantee you that this is the most comprehensive and up-to-date Node JS tutorial + projects course that you can find. You will learn Node from scratch, build your own professional Node.js apps and get hired as a Node.js Backend Developer in 2023!",
+    "learnings": [
+      {
+        "id": "1",
+        "point": " Build enterprise-level Node applications and deploy to the cloud (AWS)"
+      },
+      {
+        "id": "2",
+        "point": " Lead Node JS projects by making good architecture decisions and helping others on your team"
+      },
+      {
+        "id": "3",
+        "point": " Work with real-life data and the SpaceX API to build a NASA launch system to discover new planets that may contain life + other projects"
+      },
+      {
+        "id": "4",
+        "point": " Build a MERN (MongoDb, Express, React, Node) fullstack app and deploy to production"
+      },
+      {
+        "id": "5",
+        "point": " Become a top 10% Node Developer by learning advanced topics most courses don't cover"
+      },
+      {
+        "id": "6",
+        "point": "Master the latest ecosystem of a Backend Node JS Developer from scratch"
+      }
+    ],
+    "number_of_students": "Join 750,000+ students enrolled in Coding Hero courses!",
+    "course_includes": [
+      {
+        "id": "1",
+        "includes": "Access to exclusive ZTM community"
+      },
+      {
+        "id": "2",
+        "includes": "Certificate of Completion"
+      },
+      {
+        "id": "3",
+        "includes": "The knowledge to ace coding interviews & the steps to land your dream job"
+      },
+      {
+        "id": "4",
+        "includes": "Unlimited access to all courses, workshops, career paths and resources"
+      }
+    ],
+    "prerequisites": [
+      {
+        "id": "1",
+        "knowledge": "Just basic JavaScript knowledge. You don't need any prior experience with Node JS"
+      },
+      {
+        "id": "2",
+        "knowledge": "A computer (Windows, Mac, or Linux) with an internet connection"
+      }
+    ],
+    "conclusion": "This course is not about making you just code along without understanding the principles so that when you are done with the course you don’t know what to do other than watch another tutorial... No! This course will push you and challenge you to go from an absolute beginner in Node.js to someone that is in the top 10% of Node.js Backend Developers 💪."
+  },
+  {
+    "id": "6",
+    "course_header": "Complete React Native Developer in 2023",
+    "course_description": "The only React Native course you need to learn React Native, build large-scale React Native iOS + Android apps from scratch and get hired as a Mobile App Developer this year.",
+    "course_overview": "We guarantee you that this is the most comprehensive and up-to-date React Native course that you can find. This project based course will introduce you to all of the modern toolchain of a React Native Developer in 2023.",
+    "learnings": [
+      {
+        "id": "1",
+        "point": " Build enterprise level React Native apps and deploy them to the Apple App Store and Google Play Store"
+      },
+      {
+        "id": "2",
+        "point": "Learn to lead Mobile App projects by making good architecture decisions and helping others on your team"
+      },
+      {
+        "id": "3",
+        "point": " Learn the latest features in React Native including Hooks, Context API, AsyncStorage, Animation, and more"
+      },
+      {
+        "id": "4",
+        "point": " Become a top 10% React Native Developer"
+      },
+      {
+        "id": "5",
+        "point": " Set up authentication and user accounts using Firebase and Firebase Functions"
+      },
+      {
+        "id": "6",
+        "point": " Use the latest ES6/ES7/ES8/ES9/ES10 JavaScript to write clean code"
+      }
+    ],
+    "number_of_students": "Join 750,000+ students enrolled in Coding Hero courses!",
+    "course_includes": [
+      {
+        "id": "1",
+        "includes": "Access to exclusive ZTM community"
+      },
+      {
+        "id": "2",
+        "includes": "Certificate of Completion"
+      },
+      {
+        "id": "3",
+        "includes": "The knowledge to ace coding interviews & the steps to land your dream job"
+      },
+      {
+        "id": "4",
+        "includes": "Unlimited access to all courses, workshops, career paths and resources"
+      }
+    ],
+    "prerequisites": [
+      {
+        "id": "1",
+        "knowledge": "A willingness and enthusiasm to learn"
+      },
+      {
+        "id": "2",
+        "knowledge": "A computer (Windows, Mac, or Linux) with an internet connection"
+      }
+    ],
+    "conclusion": "This course is not about making you just code along without understanding the principles so that when you are done with the course you don’t know what to do other than watch another tutorial... No! This course will push you and challenge you to go from an absolute React Native beginner to someone that is in the top 10% of React Native developers 💪."
+  }
+]
