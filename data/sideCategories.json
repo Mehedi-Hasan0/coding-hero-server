@@ -1,0 +1,34 @@
+[
+  {
+    "id": "01",
+    "name": "Html & Css Course"
+  },
+  {
+    "id": "02",
+    "name": "Advanced JavaScript"
+  },
+  {
+    "id": "03",
+    "name": "Python Course"
+  },
+  {
+    "id": "04",
+    "name": "Next.js Course"
+  },
+  {
+    "id": "05",
+    "name": "Node.js Course"
+  },
+  {
+    "id": "06",
+    "name": "React.js Course"
+  },
+  {
+    "id": "07",
+    "name": "Complete Web development"
+  },
+  {
+    "id": "08",
+    "name": "Angular Course"
+  }
+]
