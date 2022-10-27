@@ -35,4 +35,3 @@ app.get('/courses/:id', (req, res) => {
 app.listen(port, () => {
     console.log('coding hero server is running on port:', port);
 })
-
