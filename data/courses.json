@@ -1,6 +1,7 @@
 [
   {
     "id": "1",
+    "img_link": "https://i.ibb.co/2vnC0Qk/Untitled-design-2.png",
     "course_header": "Master the Coding Interview: Data Structures + Algorithms",
     "course_description": "The ultimate coding interview bootCamp to help you ace your coding interviews and land your dream job. You'll not only learn data structures and algorithms but also the exact steps to take to get more interviews, more job offers, and a higher salary.",
     "course_overview": "We guarantee you that this is the best coding interview bootCamp that you can find if you are serious about learning data structures & algorithms, want to make up for not having a Computer Science Degree, and want to get hired as a Developer at the company of your dreams.",
@@ -63,6 +64,7 @@
   },
   {
     "id": "2",
+    "img_link": "https://i.ibb.co/DKv4mTN/Untitled-design-3.png",
     "course_header": "JavaScript: The Advanced Concepts",
     "course_description": "Learn modern, advanced JavaScript concepts and practices to be in the top 10% JavaScript Developers this year. This Advanced JavaScript course is even used as reference material to study for some MAANG company interview processes.",
     "course_overview": "This course is unlike any JavaScript course you will find online. After many years of working with JavaScript on a daily basis, Andrei has now combined best practices from his own experience and decades of experience from some of the top developers in the world, to create a course that turns you into a top performing JavaScript Developer.",
@@ -125,6 +127,7 @@
   },
   {
     "id": "3",
+    "img_link": "https://i.ibb.co/hWnFFDM/python-course.png",
     "course_header": "Complete Python Developer in 2023: Zero to Mastery",
     "course_description": "Learn Python. Get hired. This is one of the most popular, highly rated python coding bootCamps online. It's also the most modern and up-to-date. Guaranteed. This is the only Python course you need if you want to go from complete Python beginner to getting hired as a Python Developer this year!",
     "course_overview": "Learn Python from scratch, get hired, and have fun along the way with the most modern, up-to-date (fully updated for 2023) Python coding bootCamp on the web! We guarantee you that this is the best Python coding bootCamp that you can find if you want to go from an absolute beginner to the exact steps of how to become a Python Developer in 2023.",
@@ -187,6 +190,7 @@
   },
   {
     "id": "4",
+    "img_link": "https://i.ibb.co/y6DLQs2/Next-Js.png",
     "course_header": "Complete Next.js Developer in 2023",
     "course_description": "Learn Next JS from industry experts using modern best practices. The only Next JS tutorial + projects course you need to learn Next JS, build enterprise-level React applications (like a Netflix clone!) from scratch and get hired as a Next.js Developer in 2023. Go from Zero To Next.js Mastery.",
     "course_overview": "Using the latest Next.js features for 2023, we guarantee you this is the most comprehensive online course on Next.js and React. You will learn Next.js by building real-world projects (including a massive Netflix clone application) step-by-step alongside senior industry professionals.",
@@ -249,6 +253,7 @@
   },
   {
     "id": "5",
+    "img_link": "https://i.ibb.co/m6s9ztD/Node-js.png",
     "course_header": "Complete Node.js Developer in 2023",
     "course_description": "Learn from Node.js experts. This is the only Node JS tutorial + projects course you need to learn Node, build advanced large-scale applications from scratch & get hired as a Backend Developer in 2023.",
     "course_overview": "We guarantee you that this is the most comprehensive and up-to-date Node JS tutorial + projects course that you can find. You will learn Node from scratch, build your own professional Node.js apps and get hired as a Node.js Backend Developer in 2023!",
@@ -311,6 +316,7 @@
   },
   {
     "id": "6",
+    "img-link": "https://i.ibb.co/mFDF3Px/react-native.png",
     "course_header": "Complete React Native Developer in 2023",
     "course_description": "The only React Native course you need to learn React Native, build large-scale React Native iOS + Android apps from scratch and get hired as a Mobile App Developer this year.",
     "course_overview": "We guarantee you that this is the most comprehensive and up-to-date React Native course that you can find. This project based course will introduce you to all of the modern toolchain of a React Native Developer in 2023.",
